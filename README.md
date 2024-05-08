@@ -5,11 +5,6 @@
     <a href="https://www.instagram.com/ll.tt.bb" target="_blank">Instagram</a>
 </p>
 
-<h1 align="center">Stats</h1>
-<p align="center">
-    <img width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTerranovaB&langs_count=14&layout=compact&hide=Mako,Cython,%20notebook&theme=radical" alt="LucaTerranovaB" />
-    <img width="525" src="https://github-readme-stats.vercel.app/api?username=LucaTerranovaB&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="LucaTerranovaB" />
-</p>
 
 <h2 align="center">🚀 Skills & Learning</h2>
 <details>
